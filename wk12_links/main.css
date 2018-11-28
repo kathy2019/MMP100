@@ -1,3 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Unica+One');
+
 body{
 	background-color: salmon;
+	/*font-family: "Palatino Linotype", "Book Antiqua", Palatino, sans-serif;*/
+	text-align: center;
+	font-family: 'Unica One', cursive;
+}
+h1{
+	font-family: 'Lobster Two', cursive;
+}
+img{
+
 }
