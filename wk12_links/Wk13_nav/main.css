@@ -1,0 +1,46 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: firebrick;
+	padding: 0;
+	margin: 0;
+}
+
+a{
+	color: lavenderblush;
+}
+
+a:hover{
+	color: black;
+	text-decoration: none;
+}
+
+/*Navigation Styles*/
+
+nav{
+	background-color: black;
+}
+nav ul{
+	list-style: none;
+	padding: 0;
+}
+
+nav li{
+	display: inline;
+}
+nav a{
+	display: inline-block;
+	padding: 20px
+}
+
+
+nav a:hover{
+	background-color: white;
+}
+
+
+
