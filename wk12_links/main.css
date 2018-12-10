@@ -1,10 +1,41 @@
+*{
+	margin: 0;
+	padding: 0;
+
+
+}
+
 @import url('https://fonts.googleapis.com/css?family=Unica+One');
 
 body{
 	background-color: salmon;
+	font-size: 12px;
 	/*font-family: "Palatino Linotype", "Book Antiqua", Palatino, sans-serif;*/
 	text-align: center;
 	font-family: 'Unica One', cursive;
+}
+
+a{
+	color: firebrick;
+}
+
+a:hover{
+	color: darksalmon;
+	text-decoration: none;
+}
+
+nav ul{
+	list-style: none;
+	padding: 0;
+}
+
+nav a:hover{
+	background-color: white;
+}
+
+nav a{
+	display: inline-block;
+	padding: 20px
 }
 h1{
 	font-family: 'Lobster Two', cursive;
